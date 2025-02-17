@@ -1,2 +1,2 @@
 # git-demo
-exploring github on my laptops one year completation
+exploring github on my laptops one year completation journey....
